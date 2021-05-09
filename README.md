@@ -2,6 +2,11 @@
 A Twitter bot that posts descriptions of sounds from freesound.org.
 
 ## Usage
+You'll need to install this bot's dependencies using `pip` before you can run it:
+```
+pip install -r requirements.txt
+```
+
 In order to get this bot to do anything, you'll need to acquire API credentials for Twitter and Freesound,
 and place them in your environment:
 ```
