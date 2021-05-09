@@ -1,7 +1,7 @@
 # freesound-bot
 A Twitter bot that posts descriptions of sounds from freesound.org.
 
-##Usage
+## Usage
 In order to get this bot to do anything, you'll need to acquire API credentials for Twitter and Freesound,
 and place them in your environment:
 ```
