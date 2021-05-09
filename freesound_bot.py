@@ -4,6 +4,7 @@ import requests
 from retry import retry
 import tweepy
 
+# ID of the most recent existing sound on May 9, 2021
 MAX_SOUND_ID = 570715
 
 # sometimes a sound has been deleted and we need to retry to get one that exists
